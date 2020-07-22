@@ -23,7 +23,7 @@ More info at http://efektalab.com/mmtsa01 (still not working)
 
 ### Components (BOM):
 
-CASE 33*33*10 -- https://ali.ski/HAZ9C  --  https://ali.ski/sHsY7  --  https://ali.ski/RoOQbo
+CASE 33х33х10 -- https://ali.ski/HAZ9C  --  https://ali.ski/sHsY7  --  https://ali.ski/RoOQbo
 
 
 C1 -- 1UF 0806  --  https://ali.ski/Q2HZF
