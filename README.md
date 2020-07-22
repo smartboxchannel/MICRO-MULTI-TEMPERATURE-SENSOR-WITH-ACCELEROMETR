@@ -1,4 +1,4 @@
-# MICRO-MULTI-TEMPERATURE-SENSOR-WITH-ACCELEROMETR
+# MICRO MULTI TEMPERATURE SENSOR WITH ACCELEROMETR
 My new device, made specifically for the case with Aliexpress (33 * 33 * 10). The device is based on nRF52810, nRF52811, nRF52832 chips. The sensor is a multi temperature sensor, it is possible to install sensors SI7020, SI7021, SHT20, SHT21, HTU21D, BME280, LMT01, TMP117. It is also possible to install an accelerometer LIS2DW12, LIS2DH12. Powered by CR2032 battery.
 
 #### If this project was useful to you, you can buy me a Cup of coffee :)
@@ -83,4 +83,10 @@ U12 -- SI7020-21, SHT20-21, HDU21D  --  https://ali.ski/nZr79  --  https://ali.s
 U13 -- LIS2DH12, LIS2DW12  --  https://ali.ski/LxdLSB
 
 U15, U17 -- BUTTON SMD 3*3*1.5  --  https://ali.ski/8fz3L
+
+
+
+![MICRO MULTI TEMPERATURE SENSOR WITH ACCELEROMETR](https://github.com/smartboxchannel/MICRO-MULTI-TEMPERATURE-SENSOR-WITH-ACCELEROMETR/blob/master/IMG/7s.jpg)
+
+![MICRO MULTI TEMPERATURE SENSOR WITH ACCELEROMETR](https://github.com/smartboxchannel/MICRO-MULTI-TEMPERATURE-SENSOR-WITH-ACCELEROMETR/blob/master/IMG/17s.jpg)
 
