@@ -13,7 +13,7 @@ with case - +$5
 
 Contact: hello@efektalab.com
 
-Video: 
+Video: https://youtu.be/uxe9G3y720g
 
 More info at http://efektalab.com/mmtsa01 (still not working)
 
