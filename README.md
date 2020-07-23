@@ -70,7 +70,7 @@ U3 -- ANT9520  --  https://ali.ski/X9miyA
 
 U4 -- 32MHZ 3225  --  https://ali.ski/BecrL
 
-U5 -- nRF52810,52811,52832 QFAA 48P  -- https://ali.ski/aBSPW  --  https://ali.ski/dsK2j  --  https://ali.ski/F2urdY
+U5 -- nRF52810,52811,52832 QFAA QFN48  -- https://ali.ski/aBSPW  --  https://ali.ski/dsK2j  --  https://ali.ski/F2urdY
 
 U6 -- 32.768KHZ FC-135  --  https://ali.ski/E1Jp7
 
