@@ -1,0 +1,63 @@
+CASE 33*33*10 -- https://ali.ski/HAZ9C  --  https://ali.ski/sHsY7  --  https://ali.ski/RoOQbo
+
+
+
+CASE 33х33х10 -- https://ali.ski/HAZ9C -- https://ali.ski/sHsY7 -- https://ali.ski/RoOQbo
+
+C1 -- 1UF 0806 -- https://ali.ski/Q2HZF
+
+C2, C6, C11, C12, C13, C14, C15, C17, C18, C19, C21 -- 100NF 0603 -- https://ali.ski/i2N5i
+
+C3, C4, C8, C9 -- 12PF 0603 -- https://ali.ski/e6CUY7
+
+C5 -- 4.7UF 0805 -- https://ali.ski/LAGGH
+
+C7 -- 100PF 0603 -- https://ali.ski/wkYFxX
+
+C10 -- 0.8PF 0603 -- https://ali.ski/wkYFxX
+
+C16 -- 10UF 0603 -- https://ali.ski/K8in29
+
+C20 -- 100UF 1812 (TANTAL) -- https://ali.ski/0rhyH -- https://ali.ski/HmS7rE
+
+D1 -- LED 0805 -- https://ali.ski/aXixwc
+
+D2 -- LED RGB 0805 -- https://ali.ski/gt1NDV
+
+L1 -- 15NH 0603 -- https://ali.ski/tpn_V4
+
+L2 -- 10MH 0805 -- https://ali.ski/KJ5wck
+
+L3 -- 3.9NH 0603 -- https://ali.ski/l63OdA
+
+R1 -- 8K2 0603 -- https://ali.ski/FwC4g
+
+R2, R8 -- 5K 0603 -- https://ali.ski/FwC4g
+
+R3 -- 100K 0603 (OPTIONAL) -- https://ali.ski/FwC4g
+
+R4, R9, R10, R11 -- 10K 0603 -- https://ali.ski/FwC4g
+
+R5, R6, R7 -- 3K 0603 -- https://ali.ski/FwC4g
+
+Q1 -- MMBT3904 SOT23 (OPTIONAL) -- https://ali.ski/LEaEi or S9013 SOT23 (OPTIONAL) -- https://ali.ski/cZp5c
+
+U1 -- LMT01 -- https://www.ti.com/product/LMT01
+
+U3 -- ANT9520 -- https://ali.ski/X9miyA
+
+U4 -- 32MHZ 3225 -- https://ali.ski/BecrL
+
+U5 -- nRF52810,52811,52832 QFAA QFN48 -- https://ali.ski/aBSPW -- https://ali.ski/dsK2j -- https://ali.ski/F2urdY
+
+U6 -- 32.768KHZ FC-135 -- https://ali.ski/E1Jp7
+
+U9 -- BME280 -- https://ali.ski/bmEykn
+
+U11 -- TMP117 -- https://www.ti.com/product/TMP117 -- https://ali.ski/Pd-sP
+
+U12 -- SI7020-21, SHT20-21, HDU21D -- https://ali.ski/nZr79 -- https://ali.ski/GIrQOs -- https://ali.ski/gp27F
+
+U13 -- LIS2DH12, LIS2DW12 -- https://ali.ski/LxdLSB
+
+U15, U17 -- BUTTON SMD 331.5 -- https://ali.ski/8fz3L
