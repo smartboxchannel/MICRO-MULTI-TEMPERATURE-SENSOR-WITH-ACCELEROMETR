@@ -25,6 +25,8 @@ More info at http://efektalab.com/mmtsa01 (still not working)
 
 CASE 33х33х10 -- https://ali.ski/HAZ9C  --  https://ali.ski/sHsY7  --  https://ali.ski/RoOQbo
 
+TBH BATTERY CLIP -- https://ali.ski/-JnqQ
+
 
 C1 -- 1UF 0806  --  https://ali.ski/Q2HZF
 
