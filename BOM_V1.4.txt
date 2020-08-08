@@ -10,13 +10,11 @@ C2, C6, C11, C12, C13, C14, C15, C17, C18, C19, C21 -- 100NF 0603 -- https://ali
 
 C3, C4, C8, C9 -- 12PF 0603 -- https://ali.ski/e6CUY7
 
-C5 -- 4.7UF 0805 -- https://ali.ski/LAGGH
+C5, C16 -- 4.7UF 0805 -- https://ali.ski/LAGGH
 
 C7 -- 100PF 0603 -- https://ali.ski/wkYFxX
 
 C10 -- 0.8PF 0603 -- https://ali.ski/wkYFxX
-
-C16 -- 10UF 0603 -- https://ali.ski/K8in29
 
 C20 -- 100UF 1812 (TANTAL) -- https://ali.ski/0rhyH -- https://ali.ski/HmS7rE
 
