@@ -1,11 +1,15 @@
 # MICRO MULTI TEMPERATURE SENSOR WITH ACCELEROMETR
 My new device, made specifically for the case with Aliexpress (33 * 33 * 10). The device is based on nRF52810, nRF52811, nRF52832 chips. The sensor is a multi temperature sensor, it is possible to install sensors SI7020, SI7021, SHT20, SHT21, HTU21D, BME280, LMT01, TMP117, HDC2080. It is also possible to install an accelerometer LIS2DW12, LIS2DH12. Powered by CR2032 battery.
 
-#### If this project was useful to you, you can buy me a Cup of coffee :)
+#### Donate me :)
 
 PayPal: altigraph@yandex.com
 
 Yandex Money: 4100140180242
+
+WebMoney: Z722291985192, X133903637383, R494367503336
+
+Bitcoin: bc1q3prwstl54j3a5j58esepfkyrqfjn0ydr8p3vc7
 
 Also you can buy an assembled sensor - $15
 
