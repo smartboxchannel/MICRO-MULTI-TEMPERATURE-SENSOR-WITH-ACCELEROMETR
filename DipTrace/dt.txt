@@ -1,0 +1,3 @@
+Free basic template for development.
+
+To develop a custom device based on this project, write to hello@efectalab.com
